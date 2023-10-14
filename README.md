@@ -1,2 +1,2 @@
-# kelas-alpro
-Tempat untuk menaruh tugas alpro
+# Kelas-Alpro
+Repository tempat menaruh materi dan tugas Alpro Semester 1
